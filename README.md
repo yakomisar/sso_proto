@@ -1,1 +1,1 @@
-# sso_proto
+# PROTO files for sso service
